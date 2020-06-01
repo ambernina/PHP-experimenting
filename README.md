@@ -1,2 +1,2 @@
-# Streaming
-For practice building a streaming service app
+# PHP-experimenting
+For practice building a PHP app
